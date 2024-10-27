@@ -7,7 +7,6 @@ Este script se utiliza para actualizar automáticamente la dirección IPv4 y 6 e
 - **Sistema operativo**: Linux.
 - **Dependencias**:
   - `curl` o `wget` debe estar instalado en el sistema.
-- **Acceso a IPv6**: El dispositivo debe tener acceso a una dirección IPv6.
 
 ## Configuración
 
